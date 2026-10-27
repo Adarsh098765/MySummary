@@ -24,6 +24,7 @@
 |---|---|
 | **20%+ → 0.3%** | Crash rate cut at WedMeGood (−98.5%) using LeakCanary, structured error handling and MVVM refactors |
 | **0.02%** | Crash rate on Dependo Delivery, a Compose-first app I built from scratch (5K+ downloads, 4.4★) |
+| **97% → 99.98%** | Crash-free rate at Mylo, raised release by release to the latest build |
 | **API 36** | Took Mylo to an Android 16 target, Play Billing 9, Compose 1.7 and R8 optimization |
 | **30+** | App releases shipped at Mylo, with crash and ANR triage on every one |
 
